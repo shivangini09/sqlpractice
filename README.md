@@ -1,4 +1,4 @@
-# 🗄️ My SQL Problem Solving Journey
+#  My SQL Problem Solving Journey
 
 This repository is my **personal SQL problem-solving log**.  
 It contains the problems I’ve solved, my thought process, and final solutions.  
