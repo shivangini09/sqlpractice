@@ -25,14 +25,5 @@ I use this repo as a **revision notebook** and **interview prep reference**.
 
 ---
 
-## 🎯 Problem Log
 
-| # | Problem | Topic | Status |
-|---|---------|-------|--------|
-| 1 | Find average salary by department | Aggregations | ✅ |
-| 2 | Top 3 customers by order value | Joins + Sorting | ✅ |
-| 3 | Month-over-month sales growth | Window Functions | ✅ |
-| 4 | Employees with salary above company avg | Subqueries | ✅ |
-| 5 | Rank employees by salary in department | Window Functions | ✅ |
-| 6 | Optimize query for top-selling product | Indexing | 🔄 In Progress |
 
