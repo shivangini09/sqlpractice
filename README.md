@@ -21,7 +21,7 @@ I use this repo as a **revision notebook** and **interview prep reference**.
 ✅ Aggregations – COUNT, SUM, AVG, GROUP BY, HAVING  
 ✅ Subqueries & CTEs  
 ✅ Window Functions (ROW_NUMBER, RANK, DENSE_RANK)  
-🔄 Advanced (Optimization, Indexing, Triggers, Procedures)  
+
 
 ---
 
